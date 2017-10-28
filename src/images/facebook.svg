@@ -1,0 +1,12 @@
+<svg width="11" height="20" viewBox="0 0 11 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Icon - Facebook</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4987 -1002)" figma:type="canvas">
+<g id="Icon - Facebook" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-4987 1002)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 7.63 0C 4.78417 0 2.945 1.8875 2.945 4.8075L 2.945 7.02333L 0.3975 7.02333C 0.178333 7.02333 0 7.20167 0 7.42167L 0 10.6333C 0 10.8525 0.178333 11.0308 0.3975 11.0308L 2.945 11.0308L 2.945 19.135C 2.945 19.3542 3.12333 19.5325 3.34333 19.5325L 6.66583 19.5325C 6.885 19.5325 7.06333 19.3542 7.06333 19.135L 7.06333 11.0308L 10.0417 11.0308C 10.2617 11.0308 10.44 10.8525 10.44 10.6333L 10.4417 7.42167C 10.4417 7.31667 10.3992 7.215 10.3242 7.14C 10.25 7.06583 10.1483 7.02333 10.0425 7.02333L 7.06333 7.02333L 7.06333 5.14417C 7.06333 4.24167 7.27917 3.78333 8.455 3.78333L 10.1617 3.7825C 10.3825 3.7825 10.56 3.60333 10.56 3.38417L 10.56 0.403333C 10.56 0.1825 10.3825 0.005 10.1625 0.00416667L 7.63 0Z"/>
+</defs>
+</svg>

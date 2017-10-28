@@ -1,0 +1,12 @@
+<svg width="29" height="20" viewBox="0 0 29 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Icon - Youtube</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(5085 -1002)" figma:type="canvas">
+<g id="Icon - Youtube" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(-5085 1002)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 24.6475 0.390706C 26.1235 0.55544 27.3496 1.66054 27.6943 3.16054C 28.1816 5.27523 28.1816 7.58291 28.1816 9.76339L 28.1816 9.82125C 28.1816 12.0187 28.1802 14.3496 27.689 16.4831C 27.3438 17.9816 26.1177 19.0882 24.6421 19.2529C 21.1489 19.6424 17.6123 19.6449 14.0894 19.6424C 10.5679 19.6449 7.03125 19.6424 3.53711 19.2529C 2.06104 19.0882 0.835449 17.9816 0.491699 16.4831C 0 14.3496 0 12.0187 0 9.82125C 0 7.6238 0.00585938 5.29397 0.49707 3.16054C 0.84082 1.66054 2.06689 0.55544 3.54102 0.390706C 7.03564 0.000142041 10.5737 -0.00126177 14.0952 0.000142041C 17.6162 -0.00126177 21.1533 0.000142041 24.6475 0.390706ZM 10.4546 4.87655L 10.4546 14.1962L 19.4136 9.55001L 10.4546 4.87655Z"/>
+</defs>
+</svg>
